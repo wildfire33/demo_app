@@ -41,3 +41,4 @@ gem 'jquery-rails'
 #add in 
 
 gem 'execjs'
+gem 'node'
